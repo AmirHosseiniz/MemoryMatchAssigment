@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 272f2ebcfc5245845926fdf24651dd50
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: memory_match_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 800
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde90bbfcdb0fc14dacbae1082fb974e
+      internalID: -1839889174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 801
+        width: 146
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4a6f99674ad341bab5c6911baf9f3
+      internalID: 1435004251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 800
+        width: 146
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f98147011a14e98fa81c8fe31d75
+      internalID: -2099892400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 800
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18d044a10ccd64cb2ee59e513acb2d
+      internalID: 2006103822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 800
+        width: 146
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7202512d1db5c4e8e5f5325c7b479e
+      internalID: 496098660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 800
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7b720361b1464e8497c40caa37824
+      internalID: 6155051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 592
+        width: 148
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24964029585db34f836272f72a0f74a
+      internalID: -2019696742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 592
+        width: 146
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8752d456c363f949931645136feeedd
+      internalID: -789314021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 592
+        width: 146
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fa131a8a2828498359d72851d3cdf
+      internalID: 1613364892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 592
+        width: 147
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a47edea5b87b6439c6dc0fb6453d20
+      internalID: -1708294031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 592
+        width: 146
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224631e4d671c844891379072e25d88
+      internalID: -21178094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 591
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f23a9dcf681ff84ca4666105710da60
+      internalID: 631932945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 396
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ea95e0ba38a549b8f7799e285721c
+      internalID: 103375715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 397
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab20ebe6539dd44aae720df9b3cdd7
+      internalID: 922174930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 396
+        width: 146
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e7cee6ff558f4c986b01883113dae
+      internalID: 1393152963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 397
+        width: 147
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37df20f14a3e7f43a3272a12e9f65cb
+      internalID: 1299663520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 398
+        width: 146
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f73ea640e4d3248ad65ca535ca88e0
+      internalID: 54224096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 398
+        width: 148
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a78debce5c20e4f9343a8f7cbb4802
+      internalID: 1971291756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 205
+        width: 149
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625a854498cd25045ab362e5981e89ce
+      internalID: -1666819569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 204
+        width: 146
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8be8c0fd67a840bec78d44946d247
+      internalID: -1595300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 204
+        width: 146
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc17d9ef432df14f8f6b41b3c4aed0b
+      internalID: -62036316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 204
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a14f5813e686147a9c569b03923383
+      internalID: 474505442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 204
+        width: 146
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86987a67d99b23743bf518ce9d7ff7b5
+      internalID: -990355549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 204
+        width: 148
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a11624d0570e4c85e283542243e7e
+      internalID: 3655199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 149
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856d0681dd5bd04890c5f34490e31cd
+      internalID: 1001018609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 146
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87261cb6c9af6b4ba680bf489c26d54
+      internalID: 1178546375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 13
+        width: 146
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc426087e7ae85548a36be497a0997d9
+      internalID: -875427174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 14
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277a178edaf7284eb0e3510a1a4be94
+      internalID: 198908142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 14
+        width: 146
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79134b0e54d68794082230ecb808e3b9
+      internalID: 592173205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: memory_match_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 14
+        width: 148
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9940a9143b8d44344a292714aaa723d7
+      internalID: -1196181320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      memory_match_atlas_0: -1839889174
+      memory_match_atlas_1: 1435004251
+      memory_match_atlas_10: -21178094
+      memory_match_atlas_11: 631932945
+      memory_match_atlas_12: 103375715
+      memory_match_atlas_13: 922174930
+      memory_match_atlas_14: 1393152963
+      memory_match_atlas_15: 1299663520
+      memory_match_atlas_16: 54224096
+      memory_match_atlas_17: 1971291756
+      memory_match_atlas_18: -1666819569
+      memory_match_atlas_19: -1595300638
+      memory_match_atlas_2: -2099892400
+      memory_match_atlas_20: -62036316
+      memory_match_atlas_21: 474505442
+      memory_match_atlas_22: -990355549
+      memory_match_atlas_23: 3655199
+      memory_match_atlas_24: 1001018609
+      memory_match_atlas_25: 1178546375
+      memory_match_atlas_26: -875427174
+      memory_match_atlas_27: 198908142
+      memory_match_atlas_28: 592173205
+      memory_match_atlas_29: -1196181320
+      memory_match_atlas_3: 2006103822
+      memory_match_atlas_4: 496098660
+      memory_match_atlas_5: 6155051
+      memory_match_atlas_6: -2019696742
+      memory_match_atlas_7: -789314021
+      memory_match_atlas_8: 1613364892
+      memory_match_atlas_9: -1708294031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
